@@ -1,4 +1,4 @@
-![OIG](https://github.com/Kquant03/Guide/assets/155934148/2d371fb8-3325-4afe-b66b-b9088b918f56)
+![LOGO](https://github.com/Kquant03/ConvexGuide/assets/155934148/4a931a3f-f754-4b19-ab80-e45ed0d9109b)
 
 # A Guide on Everything LLm
 
