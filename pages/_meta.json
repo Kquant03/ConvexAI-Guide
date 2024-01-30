@@ -1,6 +1,9 @@
 {
-    "index": "index",
-    "contact": "Contact Us",
-    "about": "About Us",
     "ai-dictionary": "AI Dictionary"
+    "text-gen": "text-gen",
+    "text2image": "text2image",
+    "BONUS-rvc": "BONUS-rvc",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "index": "index",
 }
