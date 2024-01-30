@@ -1,23 +1,9 @@
-# Nextra Docs Template 
+![OIG](https://github.com/Kquant03/Guide/assets/155934148/2d371fb8-3325-4afe-b66b-b9088b918f56)
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+# A Guide on Everything LLm
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Fine-tuning, inferencing, extensions, from-scratch training, everything can be found on [our guide!](https://www.h2mai.com/)
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+In this guide, every fundamental basic will be touched upon, and you will be provided ample resources in order to start your journey down the path of LLms.
 
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+If you have any questions, feel free to contact us [here](https://discord.gg/ujZGyRuU)!
